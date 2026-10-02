@@ -1,1 +1,2 @@
 The .git directory stores the repository's history and configuration.
+feat stands for feature. it is a type of commit message used to indicate that you're adding a new feature or functionality to the project
